@@ -1,4 +1,4 @@
-
+/*  your css code here. If applicable */
 .modal {
     display: none;
     position: fixed;
@@ -24,7 +24,6 @@
     align-items: center;
     border-bottom: 1px solid #ddd;
     padding-bottom: 10px;
-	background:green;
 }
 
 .close-modal {

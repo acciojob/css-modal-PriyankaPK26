@@ -1,4 +1,5 @@
-
+//your JS code here. If required.
+// Get the modal and button
 var modal = document.getElementById("myModal");
 var btn = document.getElementById("openModal");
 
